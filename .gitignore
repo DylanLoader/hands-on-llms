@@ -1,1 +1,4 @@
 NLP-with-transformers/notebooks/tmp_trainer/*
+*.DS_Store
+NLP-with-transformers/.DS_Store
+.DS_Store
